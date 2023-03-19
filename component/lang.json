@@ -1,0 +1,59 @@
+{
+    "en" : {
+        "home": {
+            "header": [
+                "Safe Pool,",
+                "Safe Investment,",
+                "Safe for Everyone",
+                "Create your own token or pool using our secure Smart Contract",
+                "Explore",
+                "Create",
+                "Learn More"
+            ],
+            "auditor" : [
+                "Meet our Auditors",
+                "Go to Auditorioum"
+            ],
+            "footer" : [
+                "Join the fastest launchpad",
+                "Create your own Pool",
+                "Boost the presale for your token. Secure, no bots, and fast with no lag! Don't forget to bring the best of your project, and get your project trending!",
+                "Create Now",
+                "DYOR and Invest on the best Project",
+                "Do your research and invest in promising projects Discover projects coming into the market with the knowledge that they have been checked and are safe to invest in!"
+            ]
+        },
+        "Sidebar": [
+            "Launch",
+            "Create Token",
+            "Create Presale",
+            "Create Locks",
+            "Explore",
+            "Airdrop",
+            "Presale",
+            "Locks",
+            "Leaderboard",
+            "Anti-Bot",
+            "Multi Sender"
+        ],
+        "Token": [
+            "CREATE A NEW TOKEN",
+            "Token Type",
+            "Standard Token",
+            "Liquidity Generator Token",
+            "Buyback Token",
+            "Baby Buyback Token"
+        ],
+        "Params": [
+            "Soon",
+            "Name",
+            "Symbol",
+            "Decimal",
+            "Total Supply",
+            "cannot be empty!",
+            "Minimum",
+            "Maximum",
+            "invalid!"
+        ]
+    }
+}
